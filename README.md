@@ -1,2 +1,2 @@
 # code_me
-#codeed with C language.
+#coded with C language.
